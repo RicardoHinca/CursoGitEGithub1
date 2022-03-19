@@ -1,1 +1,2 @@
 testando atualizacao do clone
+removendo parte do codigo invalido
