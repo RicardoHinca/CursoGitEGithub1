@@ -1,5 +1,15 @@
 testando atualizacao do clone
 removendo parte do codigo invalido
 testando 2 
+<<<<<<< HEAD
 
 a
+=======
+a
+b
+c
+1
+2
+3
+
+>>>>>>> master

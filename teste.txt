@@ -1,8 +1,12 @@
 testando 1
 testando2
+<<<<<<< HEAD
 a
 b
 c
 d
 e
 
+=======
+vamor dar merge
+>>>>>>> master
