@@ -1,3 +1,10 @@
 testando atualizacao do clone
 removendo parte do codigo invalido
 testando 2 
+a
+b
+c
+1
+2
+3
+
